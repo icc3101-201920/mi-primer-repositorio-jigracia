@@ -13,6 +13,8 @@ namespace ProyectoPrueba01
             Console.WriteLine("Hello World");
             Console.WriteLine("Goodbye World");
             Console.WriteLine("Yeahhhhhhhhh Boiiiiiiiiiiii");
+            Console.WriteLine("Mati deja de sapearme");
+            Console.WriteLine("TAAAAAAAAAAKE OOOOOOOOON MEEEEEEEEEEEEE");
         }
     }
 }
